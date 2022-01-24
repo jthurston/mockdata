@@ -1,11 +1,74 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+        {
+            "name": "Delilah Mckinney",
+            "phone": "(896) 154-8957",
+            "email": "eleifend.cras@google.ca",
+            "address": "Ap #493-1675 Viverra. Street",
+            "postalZip": "M8S 3R8",
+            "region": "Styria",
+            "country": "Australia",
+            "list": 5,
+            "text": "non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec",
+            "numberrange": 6,
+            "currency": "$52.50",
+            "alphanumeric": "PZG12JAE6PZ"
+        },
+        {
+            "name": "Kylee Robinson",
+            "phone": "1-652-845-4065",
+            "email": "interdum.libero@protonmail.couk",
+            "address": "1753 Facilisis Rd.",
+            "postalZip": "32L 6X7",
+            "region": "Troms og Finnmark",
+            "country": "Pakistan",
+            "list": 15,
+            "text": "ante dictum mi, ac mattis velit justo nec ante. Maecenas",
+            "numberrange": 7,
+            "currency": "$95.34",
+            "alphanumeric": "VYT87IKT3WN"
+        },
+        {
+            "name": "Jack Clarke",
+            "phone": "1-587-627-3162",
+            "email": "in.faucibus.morbi@yahoo.com",
+            "address": "341-3293 Ornare Street",
+            "postalZip": "B4X 6K3",
+            "region": "South Sumatra",
+            "country": "Austria",
+            "list": 3,
+            "text": "mus. Proin vel nisl. Quisque fringilla euismod enim. Etiam gravida",
+            "numberrange": 9,
+            "currency": "$1.78",
+            "alphanumeric": "ARP29RHH7DJ"
+        },
+        {
+            "name": "Lunea Lloyd",
+            "phone": "1-255-741-4956",
+            "email": "nisi@google.couk",
+            "address": "773-3369 Congue, Road",
+            "postalZip": "83763",
+            "region": "Rio de Janeiro",
+            "country": "Poland",
+            "list": 13,
+            "text": "auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris",
+            "numberrange": 2,
+            "currency": "$28.10",
+            "alphanumeric": "BXS29ITV0NX"
+        },
+        {
+            "name": "September Mckay",
+            "phone": "1-814-801-7476",
+            "email": "nostra.per.inceptos@google.couk",
+            "address": "9658 Euismod Ave",
+            "postalZip": "45387-77554",
+            "region": "Lambayeque",
+            "country": "China",
+            "list": 19,
+            "text": "Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam erat",
+            "numberrange": 6,
+            "currency": "$58.83",
+            "alphanumeric": "FXS58BDP3UV"
+        }
+    ]
   }
