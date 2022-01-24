@@ -1,3 +1,4 @@
+{ "posts":
 [
     {
       "_id": "61eecbe65634de73e2935951",
@@ -225,3 +226,4 @@
       "favoriteFruit": "strawberry"
     }
   ]
+}
